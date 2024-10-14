@@ -2,7 +2,7 @@
 
 This is a simple resource application built using React.js with TypeScript, Vite for development, and Tailwind CSS for styling. The application allows users to filter and view images based on predefined categories.
 
-<img src="https://github.com/markdweb/MyResource-Collection/blob/master/demo.png" width="100%"/>
+<img src="https://github.com/markdweb/devresources_collection/blob/master/demo.png" width="100%"/>
 
 ## Features
 
@@ -26,13 +26,13 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/markdhelwebb/MyResource-Collection.git
+   git clone https://github.com/markdweb/devresources_collection.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd MyResourceCollection
+   cd devresources_collection
    ```
 
 3. Install dependencies:
