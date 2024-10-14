@@ -2,7 +2,7 @@
 
 This is a simple resource application built using React.js with TypeScript, Vite for development, and Tailwind CSS for styling. The application allows users to filter and view images based on predefined categories.
 
-<img src="https://github.com/markdhelwebb/MyResource-Collection/blob/master/demo.png" width="100%"/>
+<img src="https://github.com/markdweb/MyResource-Collection/blob/master/demo.png" width="100%"/>
 
 ## Features
 
